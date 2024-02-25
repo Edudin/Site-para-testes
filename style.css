@@ -87,3 +87,18 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+.imagem-do-urso {
+    border-radius: 50%;
+    /* Faz com que a imagem tenha bordas arredondadas, criando um efeito de círculo */
+    width: 200px;
+    /* Largura da imagem */
+    height: 200px;
+    /* Altura da imagem */
+    display: block;
+    /* Para centralizar a imagem */
+    margin: 0 auto;
+    /* Para centralizar a imagem */
+
+
+}
